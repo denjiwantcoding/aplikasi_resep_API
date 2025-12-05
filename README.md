@@ -1,4 +1,5 @@
-# 📚 Aplikasi Resep Masakan
+# 📚 Aplikasi Resep Masakan oleh Deny Ary Septian Lazurdi
+# NIM : 230605110088
 
 Aplikasi mobile modern untuk menemukan dan menyimpan resep masakan favorit Anda. Dibangun dengan Flutter dan menggunakan data dari TheMealDB API.
 
